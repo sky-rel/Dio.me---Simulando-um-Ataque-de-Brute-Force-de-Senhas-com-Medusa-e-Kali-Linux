@@ -1,5 +1,4 @@
-# Dio.me---Simulando-um-Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux
-Projeto dio.me Simulando um Ataque de Brute Force com Medusa e Kali Linux
+Projeto dio.me Simulando um Ataque de Brute Force com Medusa, Hydra e Kali Linux
 
 Scanner com nmap para identificar portas abertas no IP
 <img width="775" height="287" alt="image" src="https://github.com/user-attachments/assets/6bfcbe65-3482-419f-b3a4-351fe741d817" />
